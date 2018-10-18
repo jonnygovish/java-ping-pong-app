@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PingPongTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-05-03T12:54:24" hostname="elitemaster-HP-8560p" time="0.005">
+  <properties/>
+  <testcase name="runPingPong_countUpToAGivenNumber_ArrayList" classname="PingPongTest" time="0.002"/>
+  <testcase name="runPingPong_replaceMultiplesOf3_ArrayList" classname="PingPongTest" time="0.0"/>
+  <testcase name="runPingPong_replaceMultiplesOf5_ArrayList" classname="PingPongTest" time="0.0"/>
+  <testcase name="runPingPong_replaceMultiplesOfBoth3And5_ArrayList" classname="PingPongTest" time="0.0"/>
+  <testcase name="runPingPong_countUpToOne_ArrayList" classname="PingPongTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

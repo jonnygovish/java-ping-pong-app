@@ -1,2 +1,2 @@
-# java-ping-pong-app
+# Java-ping-pong-app
 
